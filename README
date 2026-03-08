@@ -2,3 +2,4 @@ Bu proje, diferansiyel bir denkleme sahip mobil robotun doğrusal hız kontrolü
 Pyhon kodlarının çalıştırılabilmesi için numpy, pandas ve matplotlib.pyplot kütüphanelerinin yüklenmesi gerekmektedir.
 Simülasyonda tercih edilen robota ilişkin bilgiler kod içerisine statik olarak eklenmiştir.
 Kullanıcılar isteğine göre kod içerisinde değiştirerek farklı parametreleri deneyebilirler.
+Youtube Video Linki : https://youtu.be/yn8ecy-1lds 
